@@ -1,0 +1,32 @@
+# client (Front-End)
+Run: cd client, npm run dev
+Command: npm i bootstrap axios react-router-dom
+
+1. bootstrap - a popular front-end framework that provides 
+pre-designed components and styles for building responsive 
+and visually appealing web applications.
+
+2. axios -  making asynchronous HTTP requests to web servers
+ and handling responses
+
+3. react-router-dom - enables navigation and URL manipulation 
+in single-page applications (SPAs) by mapping URLs 
+
+
+
+# server (Back-End)
+Run: cd server, npm start
+Command: npm i express mongoose cors nodemon
+
+1. express - provides a set of features for building web 
+applications and APIs, such as routing, middleware support, 
+and HTTP utilities
+
+2. mongoose - interact with MongoDB databases by defining 
+schemas, models, and performing CRUD operations. 
+
+3. cors - enabling Cross-Origin Resource Sharing in 
+Express applications.
+
+4. nodemon - automatically restarting the server during 
+development.
